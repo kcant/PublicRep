@@ -1,14 +1,21 @@
 Better browser
 =
 
+Session Management
+>- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+>- [Cluster](https://github.com/kcant/PublicRep/issues/24#issuecomment-551424065)
+
+Cross-device communication
+>- [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)
+
 GitHub 
 >- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ru)
 
-Image search
->- [Range-selection Image Search](https://chrome.google.com/webstore/detail/range-selection-image-sea/gmhecmaeajphjedhdjogmmaakkfainfk)
-
 Speedup multilink processing
 >- [Linkclump - open selected by mouse-rectangle links in new tabs (z+Left mouse+move)](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)
+
+Image search
+>- [Range-selection Image Search](https://chrome.google.com/webstore/detail/range-selection-image-sea/gmhecmaeajphjedhdjogmmaakkfainfk)
 
 Translation
 >- [TransOver (clickless hover translation)](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi)
@@ -28,9 +35,3 @@ Sort tables
 >- [HTML Table Auto Sort](https://chrome.google.com/webstore/detail/html-table-auto-sort/bpgbkjehkeffmmjfmdlmjjlffgkdcljp)
 >- [Make Sortable - Sort Tables](https://chrome.google.com/webstore/detail/make-sortable-sort-tables/bmbmkaepgekfmflkhclfgijjdeemloeo)
 
-Cross-device communication
->- [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)
-
-Session Management
->- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
->- [Cluster](https://github.com/kcant/PublicRep/issues/24#issuecomment-551424065)
